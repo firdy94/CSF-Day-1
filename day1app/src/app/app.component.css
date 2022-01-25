@@ -1,0 +1,31 @@
+            body,
+            html {
+                height: 100%;
+            }
+            
+            .container {
+                height: 100%;
+                background-image: url("../assets/images/tsu.jpg");
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .header {
+                text-align: center;
+            }
+            
+            .words {
+                text-align: left;
+                color: goldenrod;
+                text-indent: 20rem;
+            }
+            
+            .butt {
+                align-items: center;
+            }
+            
+            .quote {
+                text-align: center;
+                color: lightpink;
+            }
